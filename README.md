@@ -6,7 +6,7 @@
 
 <img align="right" src="https://raw.githubusercontent.com/Artistloopy/Artistloopy/main/cat.jpg" width="180" alt="office cat" style="border-radius: 15px; margin-left: 20px; display: block;" />
 
-<div style="font-size: 2em; font-weight: bold; margin: 10px 0;">Enhui Liu</div>
+<div style="font-size: 2.2em; font-weight: 900; margin: 10px;">Enhui Liu</div>
 
 🏫 **Guangzhou Medical University**   
 🩺 Senior Medical Student (Paediatrics)  
