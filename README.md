@@ -14,18 +14,10 @@
 
 <br/>
 
-<a href="mailto:leh0917@163.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Email-leh0917%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" style="display: inline-block; vertical-align: middle;" />
-</a>
-
-<a href="https://orcid.org/0009-0006-8422-2218" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/ORCID-0009--0006--8422--2218-A6CE39?style=flat-square&logo=orcid&logoColor=white" style="display: inline-block; vertical-align: middle;" />
-</a>
-
-<br clear="right" />
-
-<br/>
-
+[![Email](https://img.shields.io/badge/Email-leh0917%40163.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:leh0917@163.com)
+&nbsp;
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0006--8422--2218-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-8422-2218)
+ 
 ---
 
 ### 🛠 Tech Stack
