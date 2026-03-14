@@ -4,9 +4,7 @@
 
 ---
 
-<img align="right" src="https://raw.githubusercontent.com/Artistloopy/Artistloopy/main/cat.jpg" width="180" alt="office cat" style="border-radius: 15px; margin-left: 20px; display: block;" />
-
-<div style="font-size: 2.2em; font-weight: 800; margin-bottom: 10px;">Enhui Liu</div>
+<div style="font-size: 2.2em; font-weight: 900; margin-bottom: 10px;">Enhui Liu</div>
 
 🏫 **Guangzhou Medical University** 🩺 **Senior Medical Student (Paediatrics)** 🔬 **Interested in AI Healthcare, Bioinformatics, and Data Mining.**
 
@@ -19,7 +17,7 @@
         <img src="https://img.shields.io/badge/Email-leh0917%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
       </a>
     </td>
-    <td width="8"></td> <td>
+    <td width="10"></td> <td>
       <a href="https://orcid.org/0009-0006-8422-2218">
         <img src="https://img.shields.io/badge/ORCID-0009--0006--8422--2218-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
       </a>
@@ -27,16 +25,6 @@
   </tr>
 </table>
 
-<br clear="right" />
-<br/>
-
----
-
-### 📊 GitHub Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Artistloopy&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Artistloopy&layout=compact&theme=transparent&border_radius=10&hide=html,css" width="43%" />
-</p>
 ---
 
 ### 🛠 Tech Stack
