@@ -8,12 +8,12 @@
 
 <h3 align="left">Enhui Liu</h3>
 
-🏫 **Guangzhou Medical University**   
+🏫 Guangzhou Medical University   
 🩺 Senior Medical Student (Paediatrics)  
 🔬 Interested in：  
-· **AI Healthcare**  
-· **Bioinformatics**   
-· **Data Mining**
+  · AI Healthcare  
+  · Bioinformatics   
+  · Data Mining
 
 <br/>
 
