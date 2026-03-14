@@ -8,9 +8,12 @@
 
 <div style="font-size: 2em; font-weight: bold; margin: 10px 0;">Enhui Liu</div>
 
-🏫 **Guangzhou Medical University** 
+🏫 **Guangzhou Medical University**   
 🩺 Senior Medical Student (Paediatrics)  
-🔬 Interested in **AI Healthcare**, **Bioinformatics**, and **Data Mining**.
+🔬 Interested in：  
+· **AI Healthcare**  
+· **Bioinformatics**   
+· **Data Mining**
 
 <br/>
 
