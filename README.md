@@ -4,26 +4,21 @@
 
 ---
 
-<div style="font-size: 2.2em; font-weight: 900; margin-bottom: 10px;">Enhui Liu</div>
+<h3>Enhui Liu<h3>
 
-🏫 **Guangzhou Medical University** 🩺 **Senior Medical Student (Paediatrics)** 🔬 **Interested in AI Healthcare, Bioinformatics, and Data Mining.**
+🏫 **Guangzhou Medical University** 
+🩺 **Senior Medical Student (Paediatrics)** 
+🔬 **Interested in AI Healthcare, Bioinformatics, and Data Mining.**
 
 <br/>
 
-<table border="0" cellpadding="0" cellspacing="0">
-  <tr>
-    <td>
-      <a href="mailto:leh0917@163.com">
+      <p href="mailto:leh0917@163.com">
         <img src="https://img.shields.io/badge/Email-leh0917%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
-      </a>
-    </td>
-    <td width="10"></td> <td>
-      <a href="https://orcid.org/0009-0006-8422-2218">
+      </p>
+   
+      <p href="https://orcid.org/0009-0006-8422-2218">
         <img src="https://img.shields.io/badge/ORCID-0009--0006--8422--2218-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
-      </a>
-    </td>
-  </tr>
-</table>
+      </p>
 
 ---
 
