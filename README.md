@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&section=header&text=Welcome%20to%20My%20Academic%20Space&fontSize=40" width="100%"/>
-</div>
-
-## 🩺 Part I: Profile & Research
 <table border="0">
   <tr>
     <td width="70%" valign="top">
@@ -16,7 +11,7 @@
       </p>
     </td>
     <td width="30%" align="center" valign="middle">
-      <img src="橘猫头像的链接" width="180px" style="border-radius: 20px; border: 2px solid #0e75b6;" />
+      <img src="[https://github.com/user-attachments/assets/814bfa2f-160f-4421-bd6f-f43d91059109]" width="180px" style="border-radius: 20px; border: 2px solid #0e75b6;" />
       <br/><sub><i>Focus on Medical AI</i></sub>
     </td>
   </tr>
@@ -24,7 +19,6 @@
 
 ---
 
-## 📊 Part II: GitHub Activity & Skills
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=artistloopy&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&locale=en" width="48%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=artistloopy&layout=compact&theme=transparent&border_radius=10&hide=html,css" width="43%" />
