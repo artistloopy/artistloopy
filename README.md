@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20My%20Lab&fontSize=50" width="100%"/>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Enhui liu&show_icons=true&theme=radical)
 **Pediatrics Student | AI Researcher | Metagenomics Developer**
 
 <p align="center">
@@ -34,8 +34,8 @@
 
 ### 📊 GitHub Activity
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=你的用户名&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=你的用户名&layout=compact&theme=transparent&border_radius=10" width="43%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Enhui liu&show_icons=true&theme=transparent&rank_icon=github&border_radius=10" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Enhui liu&layout=compact&theme=transparent&border_radius=10" width="43%" />
 </div>
 
 <br/>
@@ -49,5 +49,5 @@
 
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=你的用户名&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+  <img src="https://komarev.com/ghpvc/?username=Enhui liu&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
 </div>
