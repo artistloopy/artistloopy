@@ -2,11 +2,13 @@
   <sub>Artistloopy &nbsp;<img src="https://komarev.com/ghpvc/?username=Artistloopy&color=brightgreen&style=flat-square" /></sub>
 </p>
 
+---
+
 <img align="right" src="https://raw.githubusercontent.com/Artistloopy/Artistloopy/main/cat.jpg" width="200" alt="office cat" />
 Enhui Liu
-Guangzhou Medical University
-Medical student (Paediatrics)
-I'm interested in AI healthcare and bioinformatics.
+🏫 Guangzhou Medical University
+🩺 Medical student (Paediatrics)
+🔬 I'm interested in AI healthcare and bioinformatics.
 <br/>
 <a href="mailto:leh0917@163.com">
   <img src="https://img.shields.io/badge/Email-leh0917%40163.com-D14836?style=flat-square&logo=gmail&logoColor=white" />
@@ -16,6 +18,8 @@ I'm interested in AI healthcare and bioinformatics.
   <img src="https://img.shields.io/badge/ORCID-0009--0006--8422--2218-A6CE39?style=flat-square&logo=orcid&logoColor=white" />
 </a>
 <br clear="right" />
+
+---
 
 🛠 Tech Stack
 <p align="left">
